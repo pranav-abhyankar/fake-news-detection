@@ -72,6 +72,7 @@ streamlit run app.py
 
 ---
 
+
 ## 🧠 Model Training
 
 The model was trained using a labeled dataset of real and fake news. The process involved:

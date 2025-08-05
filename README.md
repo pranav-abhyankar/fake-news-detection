@@ -51,7 +51,7 @@ A web-based application that detects whether a news article is real or fake usin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/pranav-abhyankar/fake-news-detector.git
 cd fake-news-detector
 ```
 

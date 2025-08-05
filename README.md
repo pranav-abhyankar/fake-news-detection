@@ -27,7 +27,7 @@ A web-based application that detects whether a news article is real or fake usin
 ├── body_only_fake_news_model.pkl  # Trained ML model
 ├── body_only_tfidf_vectorizer.pkl # Fitted TF-IDF vectorizer
 ├── Fake_news_prediction.ipynb   # Notebook used for model training
-├── requirements.txt # Requirements for the project
+├── requirements.txt # Required libraries for the project
 ```
 
 ---

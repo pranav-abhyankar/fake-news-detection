@@ -36,7 +36,7 @@ A web-based application that detects whether a news article is real or fake usin
 
 1. **Text Cleaning**: News text is cleaned by removing URLs, special characters, and converting to lowercase.
 2. **Vectorization**: Cleaned text is transformed into TF-IDF features.
-3. **Prediction**: A trained model (likely Logistic Regression or similar) predicts the label (real/fake).
+3. **Prediction**: A trained model predicts the label (real/fake).
 4. **Display**: Result and confidence score are shown in the UI.
 
 ---
